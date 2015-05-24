@@ -2,7 +2,6 @@
 
 [![Gem Version](https://badge.fury.io/rb/spine-mappings.svg)](http://badge.fury.io/rb/spine-mappings)
 [![Dependency Status](https://gemnasium.com/rspine/mappings.svg)](https://gemnasium.com/rspine/mappings)
-[![Coverage Status](https://coveralls.io/repos/rspine/mappings/badge.svg?branch=master)](https://coveralls.io/r/rspine/mappings?branch=master)
 [![Code Climate](https://codeclimate.com/github/rspine/mappings/badges/gpa.svg)](https://codeclimate.com/github/rspine/mappings)
 [![Codeship Status for rspine/mappings](https://codeship.com/projects/90a03900-e41c-0132-2cdb-16773c71d38d/status?branch=master)](https://codeship.com/projects/81788)
 
