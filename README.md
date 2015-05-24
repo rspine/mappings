@@ -47,7 +47,7 @@ Spine::Mappings.find(:product, :timestamps).map(product)
 Spine::Mappings.find(:product, :timestamps).map_all(products)
 ```
 
-You can provide also `comapct` or `strict` strategy for mapping. First adds
+You can provide also `compact` or `strict` strategy for mapping. First adds
 value only when it is not nil, second adds everything what was defined. Default
 is `strict`.
 
