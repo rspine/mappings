@@ -1,5 +1,4 @@
 require 'ostruct'
-require 'date'
 require 'spine/mappings'
 
 module Spine
