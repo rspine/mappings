@@ -4,6 +4,8 @@
 [![Dependency Status](https://gemnasium.com/rspine/mappings.svg)](https://gemnasium.com/rspine/mappings)
 [![Test Coverage](https://codeclimate.com/github/rspine/mappings/badges/coverage.svg)](https://codeclimate.com/github/rspine/mappings/coverage)
 [![Code Climate](https://codeclimate.com/github/rspine/mappings/badges/gpa.svg)](https://codeclimate.com/github/rspine/mappings)
+[![security](https://hakiri.io/github/rspine/mappings/master.svg)](https://hakiri.io/github/rspine/mappings/master)
+[![Inline docs](http://inch-ci.org/github/rspine/mappings.svg?branch=master)](http://inch-ci.org/github/rspine/mappings)
 [![Codeship Status for rspine/mappings](https://codeship.com/projects/90a03900-e41c-0132-2cdb-16773c71d38d/status?branch=master)](https://codeship.com/projects/81788)
 
 Maps object to hashes using DSL. You can give different namespaces for mappings
